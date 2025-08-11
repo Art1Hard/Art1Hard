@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a financial planning web app using React, NestJS, and RTK Query, with clean modular architecture.<br>👯 I’m looking to collaborate on open-source projects related to frontend architecture, Next.js, and developer tools.<br>🤝 I’m looking for help with best practices for Nest.js and integrating paid subscription systems.<br>🌱 I’m currently learning advanced Next.js.<br>💬 Ask me about React, TypeScript, state management, backend integration, or project structuring.<br>⚡ Fun fact: Sometimes I refactor code just because it “feels messy” — even if it works perfectly. ✨
+🔭 I’m currently working on a financial planning web app using React, NestJS, and RTK Query, with clean modular architecture.<br><br>👯 I’m looking to collaborate on open-source projects related to frontend architecture, Next.js, and developer tools.<br><br>🤝 I’m looking for help with best practices for Nest.js and integrating paid subscription systems.<br><br>🌱 I’m currently learning advanced Next.js.<br><br>💬 Ask me about React, TypeScript, state management, backend integration, or project structuring.<br><br>⚡ Fun fact: Sometimes I refactor code just because it “feels messy” — even if it works perfectly. ✨
 
 
 ## 🌐 Socials:
